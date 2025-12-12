@@ -1,6 +1,6 @@
-# Anggota Kelompok 11:
-# Dimas Al Faridzi 2042241128
-# Faiz Dzikrulloh Akbar 2042241092
+## Anggota Kelompok 11:
+## Dimas Al Faridzi 2042241128
+## Faiz Dzikrulloh Akbar 2042241092
 
 # 👃 Electronic Nose (E-Nose) System for Shampoo Aroma Classification
 
